@@ -1,0 +1,63 @@
+Clothes,,
+Asset,Num To Set,Max Patch Count
+CLO_  Bike Jacket,24,3
+CLO_  Bomber Jacket,18,3
+CLO_  Bomber Jacket / Backpack,19,3
+CLO_  Buiseness Suit,20,3
+CLO_  Buiseness Suit / Backpack,10,2
+CLO_  Closed Puffer Jacket,21,3
+CLO_  Closed Shirt,Empty,0
+CLO_  Closed Shirt / Backpack,22,3
+CLO_  Closed Shirt / Fashion Harness 1 / Lock,23,3
+CLO_  Closed Shirt / Fashion Harness 1 / R Logo,23,3
+CLO_  Crewneck / Shirt / Tie,15,2
+CLO_  Cyber Bike Jacket,24,3
+CLO_  Hoodie,25,3
+CLO_  Samurai Jacket / Overshirt,26,3
+CLO_  Ski Puffer Jacket,Empty,0
+CLO_  Suit / T-Shirt / Basic Chain,27,3
+CLO_  T-Shirt / Backpack,Empty,0
+CLO_  T-Shirt / Fashion Harness 1,11,2
+CLO_  T-Shirt / Fashion Harness 2,12,2
+CLO_  T-Shirt / Fashion Harness 3,13,2
+CLO_  T-Shirt / Fashion Harness 4,28,3
+CLO_  T-Shirt / Basic Chain / Opened Puffer Jacket,29,3
+CLO_  T-Shirt / Technical Fashion Harness,14,2
+CLO_  Tech Bike Jacket,30,3
+SHI_ T-Shirt /  Audio Recorder,15,2
+SHI_ T-Shirt /  Audio Recorder / Shirt,16,3
+SHI_ T-Shirt /  Audio Tape / Shirt,16,3
+SHI_ T-Shirt /  Camera / Shirt,16,3
+SHI_ T-Shirt /  Hardware Wallet,15,2
+SHI_ T-Shirt /  Rebels R,15,2
+SHI_ T-Shirt / Audio Tape,15,2
+SHI_ T-Shirt / Camera,15,2
+SHI_ T-Shirt / Chain 1,15,2
+SHI_ T-Shirt / Chain 1 / Shirt,16,3
+SHI_ T-Shirt / Chain 2,15,2
+SHI_ T-Shirt / Chain 2 / Shirt,16,3
+SHI_ T-Shirt / Chain 3,15,2
+SHI_ T-Shirt / Chain 3 / Shirt,16,3
+SHI_ T-Shirt / Chain 4,15,2
+SHI_ T-Shirt / Chain 4 / Shirt,16,3
+SHI_ T-Shirt / Chain R1,15,2
+SHI_ T-Shirt / Chain R1 / Shirt,16,3
+SHI_ T-Shirt / Chain R2,15,2
+SHI_ T-Shirt / Chain R2 / Shirt,16,3
+SHI_ T-Shirt / Chain R3,15,2
+SHI_ T-Shirt / Chain R3 / Shirt,16,3
+SHI_ T-Shirt / Game Cartridge / Shirt,16,3
+SHI_ T-Shirt / Game Cartridge / Shirt 1,16,3
+SHI_ T-Shirt / Game Cartridge,15,2
+SHI_ T-Shirt / Game Cartridge 1,15,2
+SHI_ T-Shirt / Game Station,15,2
+SHI_ T-Shirt / Game Station / Shirt,16,3
+SHI_ T-Shirt / Hardware Wallet / Shirt,16,3
+SHI_ T-Shirt / Mobile Phone,15,2
+SHI_ T-Shirt / Mobile Phone / Shirt,16,3
+SHI_ T-Shirt / Rebels R / Shirt,16,3
+SHI_ T-Shirt / Retro Phone,15,2
+SHI_ T-Shirt / Retro Phone / Shirt,16,3
+SHI_ T-Shirt / TV,15,2
+SHI_ T-Shirt / TV / Shirt,16,3
+SHI_Printed T-Shirt,15,2

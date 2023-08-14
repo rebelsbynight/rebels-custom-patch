@@ -1,0 +1,173 @@
+Hats,,
+Asset,Num To Set,Max Patch Count
+ALO_ Backwards Cap ,6,2
+ALO_ Cyber Bowler Hat / Night Vision,Empty,0
+ALO_ Cyber Bucket Hat ,5,2
+ALO_ Cyber Cap,Empty,0
+ALO_ Cyber Cowboy Hat,1,1
+ALO_ Cyberet / Night Vision,2,1
+ALO_ Russian Hat,Empty,0
+ALO_ Russian Hat / Night Vision,Empty,0
+ALO_ Samurai Hat,Empty,0
+ALO_ Samurai Hat / Night Vision,Empty,0
+ALO_ Spiky Bob,9,2
+ALO_ Spiky Fisher Hat,0,1
+ALO_ Spiky Fisher Hat / Night Vision,0,1
+ALO_ Technical Bucket Hat,4,1
+ALO_ Technical Cap ,Empty,0
+CLA_ Backwards Cap / Speed Mask,6,2
+CLA_ Bat Ears / Breathing Mask / Steampunk Goggles,Empty,0
+CLA_ Beret / Night Vision,7,2
+CLA_ Beret / Speed Mask,7,2
+CLA_ Beret / Speed Mask / Night Vision,7,2
+CLA_ Beret / Western Mask,7,2
+CLA_ Bob / Breathing Mask / Steampunk Goggles,Empty,0
+CLA_ Bob / Night Vision,Empty,0
+CLA_ Bob / V-Mask / Speed Glasses,Empty,0
+CLA_ Bowler Hat / Breathing Mask,17,3
+CLA_ Bowler Hat / V-Mask / Cyclop Glasses,17,3
+CLA_ Bowler Hat / V-Mask / Meca Glasses,17,3
+CLA_ Bowler Hat / Western Mask,17,3
+CLA_ Cap / Speed Mask,8,2
+CLA_ Cap / Western Mask,8,2
+CLA_ Capunk / Speed Mask,8,2
+CLA_ Cowboy Hat / Breathing Mask / Steampunk Goggles,1,1
+CLA_ Cowboy Hat / Night Vision,1,1
+CLA_ Cowboy Hat / Speed Mask / Headband,1,1
+CLA_ Cowboy Hat / V-Mask / Meca Glasses,1,1
+CLA_ Cowboy Hat / V-Mask / Steampunk Goggles,1,1
+CLA_ Cowboy Hat / Western Mask,1,1
+CLA_ Cyber Bowler Hat / V-Mask / Meca Glasses,Empty,0
+CLA_ Cyber Bowler Hat / V-Mask / Night Vision,Empty,0
+CLA_ Cyber Bucket Hat / V-Mask / Cyclop Glasses,5,2
+CLA_ Cyber Bucket Hat / V-Mask / Night Vision,5,2
+CLA_ Cyber Bucket Hat / Western Mask,5,2
+CLA_ Cyberet / Breathing Mask / Steampunk Goggles,2,1
+CLA_ Cyberet / Extreme V-Mask,2,1
+CLA_ Cyberet / V-Mask / Night Vision,2,1
+CLA_ Fisher Hat / Breathing Mask / Steampunk Goggles,0,1
+CLA_ Fisher Hat / V-Mask / Night Vision,0,1
+CLA_ Russian Hat / Extreme V-Mask,Empty,0
+CLA_ Russian Hat / V-Mask / Cyclop Glasses,Empty,0
+CLA_ Russian Hat / V-Mask / Meca Glasses,Empty,0
+CLA_ Samurai Hat / Breathing Mask / Steampunk Goggles,Empty,0
+CLA_ Samurai Hat / Speed Mask,Empty,0
+CLA_ Samurai Hat / V-Mask / Meca Glasses,Empty,0
+CLA_ Samurai Hat / V-Mask / Steampunk Goggles,Empty,0
+CLA_ Samurai Hat / Western Mask,Empty,0
+CLA_ Spiky Bob / Cyclop Glasses,9,2
+CLA_ Spiky Bob / Extreme V-Mask,9,2
+CLA_ Spiky Bob / Speed Mask / Night Vision,9,2
+CLA_ Spiky Bob / V-Mask / Cyclop Glasses,9,2
+CLA_ Spiky Bob / V-Mask / Glowy Eyes,9,2
+CLA_ Spiky Bob / V-Mask / Meca Glasses,9,2
+CLA_ Spiky Bob / V-Mask / Ski Mask,9,2
+CLA_ Spiky Fisher Hat / Extreme V-Mask,0,1
+CLA_ Spiky Fisher Hat / V-Mask / Meca Glasses,0,1
+CLA_ Spiky Fisher Hat / V-Mask / Night Vision,0,1
+CLA_ Spiky Fisher Hat / Western Mask,0,1
+CLA_ Steampunk Helmet / Breathing Mask / Steampunk Goggles,Empty,0
+CLA_ Steampunk Helmet / V-Mask / Steampunk Goggles,Empty,0
+CLA_ Technical Bucket Hat / V-Mask / Meca Glasses,4,1
+CLA_ Technical Cap / Extreme V-Mask,Empty,0
+CLA_ Technical Cap / Speed Mask,Empty,0
+CLA_ Trident Helmet / Breathing Mask / Steampunk Goggles,Empty,0
+CLA_ Trident Helmet / Speed Mask,Empty,0
+FIS_ Backwards Cap / Fish Mask / Fashion Glasses,6,2
+FIS_ Bowler Hat / Fish Mask 2,17,3
+FIS_ Cap / Fish Mask 2,8,2
+FIS_ Cap / Fish Mask 3,8,2
+FIS_ Cowboy Hat / Fish Mask / Fashion Glasses,1,1
+FIS_ Cyberet / Fish Mask 3,2,1
+FIS_ Russian Hat / Fish Mask,Empty,0
+FIS_ Russian Hat / Fish Mask 3,Empty,0
+FIS_ Samurai Hat / Fish Mask / Fashion Glasses,Empty,0
+FIS_ Samurai Hat / Fish Mask 2,Empty,0
+GLA_ Cap / Mad Facemask,8,2
+GLA_ Cowboy Hat / Mad Facemask,1,1
+GLA_ Cyber Bowler Hat / Mad Facemask,Empty,0
+GLA_ Cyber Bucket Hat / Gladiator Mask,5,2
+GLA_ Cyber Cap / Gladiator Mask,Empty,0
+GLA_ Fisher Hat / Mad Facemask,0,1
+GLA_ Russian Hat / Mad Facemask,Empty,0
+GLA_ Tech Beret / Mad Facemask,7,2
+HEL_ Alien Scarf,3,1
+HEL_ Bane Bat,Empty,0
+HEL_ Banemax,Empty,0
+HEL_ Extra Bane,Empty,0
+HEL_ Extreme Fish Mask,Empty,0
+HEL_ Monster Biker,Empty,0
+HEL_ Motorcycle Helmet,Empty,0
+HEL_ Scream Demon,Empty,0
+HEL_ Small Motorcycle Helmet,Empty,0
+HEL_ Steampunk Bat,Empty,0
+HOR_ Bowler Hat / Fashion Duck,17,3
+HOR_ Bowler Hat / Lucy Mask / Cyclop Glasses,17,3
+HOR_ Bowler Hat / Technical Bane,17,3
+HOR_ Cap / Fashion Duck,8,2
+HOR_ Cap / Simple Bane,8,2
+HOR_ Capunk / Creepy Mask,8,2
+HOR_ Cowboy Hat / Fang Mask / Fashion Glasses,1,1
+HOR_ Cyber Bowler Hat / Creepy Mask,Empty,0
+HOR_ Cyber Bucket Hat / Lucy Mask,5,2
+HOR_ Cyber Cap / Fang Mask,Empty,0
+HOR_ Cyber Cap / Spiky Lucy,Empty,0
+HOR_ Cyber Cowboy Hat / Creepy Mask,1,1
+HOR_ Cyber Cowboy Hat / Extra Bane,1,1
+HOR_ Cyberet / Duck Mask,2,1
+HOR_ Cyberet / Extra Bane,2,1
+HOR_ Cyberet / Fang Mask / Fashion Glasses,2,1
+HOR_ Fisher Hat / Creepy Mask,0,1
+HOR_ Fisher Hat / Simple Bane,0,1
+HOR_ Samurai Hat / Technical Bane,Empty,0
+HOR_ Spiky Bob / Fang Mask,9,2
+HOR_ Tech Bucket Hat / Creepy Mask,4,1
+HOR_ Tech Bucket Hat / Creepy Mask / Fashion Glasses,4,1
+HOR_ Technical Bucket Hat / Fang Mask,4,1
+HOR_ Technical Cap / Lucy Mask,Empty,0
+MOT_ Backwards Cap / Turbo Mask,6,2
+MOT_ Cap / Motorcycle Mask,8,2
+MOT_ Cap / Protect Mask,8,2
+MOT_ Cap / Technical Mask,8,2
+MOT_ Cap / Turbo Mask,8,2
+MOT_ Cowboy Hat / Motorcycle Mask,1,1
+MOT_ Cowboy Hat / Protect Mask,1,1
+MOT_ Cyber Bowler Hat / Motorcycle Mask,Empty,0
+MOT_ Cyber Bowler Hat / Turbo Mask,Empty,0
+MOT_ Cyber Bucket Hat / Motorcycle Mask,5,2
+MOT_ Cyber Bucket Hat / Turbo Mask,5,2
+MOT_ Cyber Bucket Hat / Turbo Mask / Steampunk Goggles,5,2
+MOT_ Cyber Cowboy Hat / Technical Mask,1,1
+MOT_ Cyberet / Turbo Mask,2,1
+MOT_ Fisher Hat / Motorcycle Mask,0,1
+MOT_ Russian Hat / Motorcycle Mask,Empty,0
+MOT_ Russian Hat / Turbo Mask,Empty,0
+MOT_ Samurai Hat / Motorcycle Mask,Empty,0
+MOT_ Spiky Bob / Protect Mask,9,2
+MOT_ Spiky Bob / Turbo Mask,9,2
+MOT_ Technical Bucket Hat / Technical Mask,4,1
+SNE_ Beret / Knife Mask,7,2
+SNE_ Bowler Hat / Cushion Mask,17,3
+SNE_ Cap / Cushion Mask,8,2
+SNE_ Cap / Holed Mask,8,2
+SNE_ Cap / Knife Mask,8,2
+SNE_ Capunk / Climber Mask,8,2
+SNE_ Capunk / Foam Man,8,2
+SNE_ Capunk / Knife Mask,8,2
+SNE_ Cowboy Hat / Climber Mask,1,1
+SNE_ Cowboy Hat / Cushion Mask,1,1
+SNE_ Cyber Bowler Hat / Foam Man,Empty,0
+SNE_ Cyber Cowboy Hat / Foam Man,1,1
+SNE_ Russian Hat / Holed Mask,Empty,0
+SNE_ Samurai Hat / Climber Mask,Empty,0
+SNE_ Samurai Hat / Foam Man,Empty,0
+SNE_ Samurai Hat / Knife Mask,Empty,0
+SNE_ Samurai Hat / Wavy Mask / Cyclist Glasses,Empty,0
+SNE_ Spiky Bob / Climber Mask,9,2
+SNE_ Spiky Bob / Foam Man,9,2
+SNE_ Spiky Fisher Hat / Cushion Mask,0,1
+SNE_ Technical Bucket Hat / Holed Mask,4,1
+SNE_ Technical Bucket Hat / Knife Mask,4,1
+Empty,Empty,0
+HEL_ Empty,Empty,0
+Variant,Empty,0
